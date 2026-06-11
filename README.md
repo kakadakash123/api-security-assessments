@@ -28,6 +28,19 @@ Assessment activities were performed following OWASP API Security Top 10 princip
 * Input Validation Assessment
 * API Security Observations
 
+## Screenshots
+
+Project screenshots demonstrating API security testing activities can be accessed below:
+
+[Screenshots Folder](./Screenshots)
+
+## Report
+
+The complete API Security Assessment report can be accessed below:
+
+[View Report](./Report/DummyJSON_API_Security_Report.pdf)
+
+
 ## Deliverables
 
 * Security Assessment Report
